@@ -15,7 +15,6 @@ function HomePage() {
     <HomeCategory /> 
     <CardProductsContainer title="ألأكثر مبيعا" btntitle="المزيد"  pathText="/products" />
 <DiscountSection />
-
 <ProductsClothing title="الملابس"btntitle="المذيد"  pathText="/products" /> 
   
 
