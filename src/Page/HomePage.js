@@ -6,6 +6,7 @@ import CardProductsContainer from '../Components/Products/CardProductsContainer'
 import DiscountSection from '../Components/Home/DiscountSection';
 import BrandFeatured from '../Components/Brand/BrandFeatured';
 import ProductsClothing from '../Components/Products/Products Clothing';
+import ProudctsElectronic from '../Components/Products/ProudctsElectronic';
 
 function HomePage() {
   return (
@@ -16,7 +17,7 @@ function HomePage() {
     <CardProductsContainer title="ألأكثر مبيعا" btntitle="المزيد"  pathText="/products" />
 <DiscountSection />
 <ProductsClothing title="الملابس"btntitle="المذيد"  pathText="/products" /> 
-  
+<ProudctsElectronic title="الالكترونيات"btntitle="المذيد"  pathText="/products" /> 
 
 <BrandFeatured title="أشهر المركات" btntitle="المذيد" />
 
