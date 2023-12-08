@@ -14,10 +14,10 @@ const CardProductsContainer = ({title , btntitle , pathText}) => {
       <SubTitle  title={title} btntitle={btntitle} pathText={pathText}/>
       <Row className="my-2 d-flex justify-content-between">
 
-<ProudctCard  img={img1}  title={'ملابس'}  price={200}/>
-<ProudctCard  img= {img2}  title={'العناية الشخصية'}/>
-<ProudctCard  img={img3}  title={'الالكترونيات'}/>
-<ProudctCard  img= {img4}  title={'اجهزه منزلية'} />
+<ProudctCard  img={img1}  title={'ملابس'}  price={400}/>
+<ProudctCard  img= {img2}  title={'العناية الشخصية'} price={250}/>
+<ProudctCard  img={img3}  title={'الالكترونيات'} price={20000}/>
+<ProudctCard  img= {img4}  title={'اجهزه منزلية'} price={999}/>
       </Row>
     </Container>
   )

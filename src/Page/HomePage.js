@@ -16,9 +16,7 @@ function HomePage() {
 <DiscountSection />
 
 
-    
-
-
+  
 
 <BrandFeatured title="أشهر المركات" btntitle="المذيد" />
 
