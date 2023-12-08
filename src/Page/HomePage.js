@@ -7,7 +7,7 @@ import DiscountSection from '../Components/Home/DiscountSection';
 import BrandFeatured from '../Components/Brand/BrandFeatured';
 import ProductsClothing from '../Components/Products/Products Clothing';
 import ProudctsElectronic from '../Components/Products/ProudctsElectronic';
-import PersonalCare from '../Components/Products/Personal care';
+import PersonalCare from '../Components/Products/ProductPersonal care';
 
 function HomePage() {
   return (

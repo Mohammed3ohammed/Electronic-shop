@@ -1,7 +1,7 @@
 import React from 'react'
 import { Container, Row } from 'react-bootstrap'
-import ProudctCard from '../../Components/Products/ProudctCard'
-import SubTitle from '../../Components/Uitily/SubTitle'
+import ProudctCard from './ProudctCard'
+import SubTitle from '../Uitily/SubTitle'
 
 import img1 from '../../images/cat2.png'
 import img2 from '../../images/personalcare 1.jpg'
