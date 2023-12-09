@@ -17,13 +17,13 @@ const Slider = () => {
         <div className="d-flex flex-row justify-content-center align-items-center">
           <img
             style={{ height: "296px", width: "373.53px"  , marginLeft: "auto", marginRight: "auto"}}
-            className=""
+            //className=""
             src={slider4}
             alt="First slide"
           />
           <div className="">
-            <h3 className=".slider-title">هناك خصم كبير</h3>
-            <p className=".slider-text">خصم يصل ٥٠٪ عند شرائك</p>
+            <h3 className="slider-title">هناك خصم كبير</h3>
+            <p className="slider-text">خصم يصل ٥٠٪ عند شرائك</p>
           </div>
         </div>
       </Carousel.Item>
@@ -31,7 +31,7 @@ const Slider = () => {
         <div className="d-flex flex-row justify-content-center align-items-center">
           <img
             style={{ height:"296px", width:"373.53px", marginLeft: "auto", marginRight: "auto" }}
-            className=""
+            //className=""
             src={sliderimg}
             alt="First slide"
           />
@@ -46,7 +46,7 @@ const Slider = () => {
         <div className="d-flex flex-row justify-content-center align-items-center">
           <img
             style={{ height: "296px", width: "373.53px" , marginLeft: "auto", marginRight: "auto" }}
-            className=""
+            // className=""
             src={prod3}
             alt="First slide"
           />
@@ -57,11 +57,11 @@ const Slider = () => {
         </div>
       </Carousel.Item>
 
-      <Carousel.Item className=".slider-background4 " interval={2000}>
+      <Carousel.Item className=".slider-background4" interval={2000}>
         <div className="d-flex flex-row justify-content-center align-items-center">
           <img
             style={{ height: "296px", width: "373.53px" , marginLeft: "auto", marginRight: "auto" }}
-            className=""
+            //className=""
             src={prod4}
             alt="First slide"
           />

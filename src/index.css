@@ -8,6 +8,7 @@ body {
 .p-0 {
   padding: 0;
 }
+
 .font {
   font-family: "Almarai", sans-serif;
   background-color: #f9f9f9;
@@ -39,22 +40,22 @@ body {
 
 .slider-background {
   background: linear-gradient(173.68deg, #ffedf5 0%, #ffd5e7 100%);
-  height: "296px";
+  height: 296px;
   width: 294.26px;
 }
 .slider-background2 {
   background: linear-gradient(174.76deg, #d3deff 0%, #a8baff 100%);
-  height: "296px";
+  height: 296px;
   width: 294.26px;
 }
 .slider-background3 {
   background: linear-gradient(176.69deg, #f8f0d5 0%, #efdcab 100%);
-  height: "296px";
+  height: 296px;
   width: 294.26px;
 }
 .slider-background4 {
   background: linear-gradient(175.24deg, #b2e8f0 0%, #7bccdc 100%);
-  height: "296px";
+  height: 296px;
   width: 294.26px;
 }
 .slider-title {
@@ -92,6 +93,11 @@ body {
   position: absolute;
   top: 20%;
   left: 10%;
+  cursor: pointer;
+}
+
+.cursor {
+  cursor: pointer;
 }
 .categoty-card-text {
   color: #555550;
@@ -325,6 +331,7 @@ body {
   width: 372px;
   height: 470px;
   border-radius: 29px;
+
 }
 /* end gallary */
 /* end products page */
@@ -637,7 +644,7 @@ body {
 }
 /* end user data */
 
-/* filter side style */
+/* filter side style 
 .filter-title {
   color: #555550;
   font-family: "Almarai";
@@ -653,12 +660,6 @@ body {
   font-size: 12px;
   letter-spacing: 0;
   line-height: 17px;
-  text-align: center;
-}
-/* end filter */
+  text-align: center; */
 
-.img33 {
-display: flex;
-justify-content: center;
-align-items: center;
-}
+/* end filter */

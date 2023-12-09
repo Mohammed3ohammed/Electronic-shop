@@ -8,7 +8,7 @@ import twitter from '../../images/twitter.png'
 
 const Footer = () => {
   return (
-    <div className="footer-background footer mt-3 pt-2" style={{ maxHeight: "50px" }}>
+    <div className="footer-background footer mt-3 pt-2" style={{ maxHeight: "200px" }}>
     <Container className="">
       <Row className="d-flex justify-content-between align-items-center">
         <Col sm="6" className="d-flex align-items-center ">

@@ -17,7 +17,7 @@ const ProductsClothing = ({title, btntitle , pathText}) => {
   return (
     <Container>
     <SubTitle  title={title} btntitle={btntitle} pathText={pathText}/>
-    <Row className="my-2 d-flex justify-content-between">
+    <Row className="my-2 d-flex justify-content-between cursor">
 
 <ProudctCard  img={img1}  title={' سويت شيرت قطن أزرق'}  price={449}/>
 <ProudctCard  img={img2} title={'سويت شيرت قطن أسود'}  price={399}  />
