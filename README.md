@@ -1,0 +1,1 @@
+This is an online store designed using React JavaScript and consists of several sections. Each section includes various products. The store offers a wide range of products, such as electronics, clothing, home appliances, and personal care products.

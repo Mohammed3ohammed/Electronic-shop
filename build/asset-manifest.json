@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Electronic-shop/static/css/main.9e567a3c.css",
+    "main.js": "/Electronic-shop/static/js/main.58d1069b.js",
+    "static/media/laptops.png": "/Electronic-shop/static/media/laptops.a5a6ab642345b5d38784.png",
+    "static/media/slider4.png": "/Electronic-shop/static/media/slider4.8049dedb7c458a0534a5.png",
+    "static/media/prod4.png": "/Electronic-shop/static/media/prod4.60c973db7361e54bb831.png",
+    "static/media/slider1.png": "/Electronic-shop/static/media/slider1.2d6dc5a9c0fd289461ee.png",
+    "static/media/prod3.png": "/Electronic-shop/static/media/prod3.c073f706ba444448c519.png",
+    "static/media/clothe.png": "/Electronic-shop/static/media/clothe.63497de16012693f71f1.png",
+    "static/media/cat2.png": "/Electronic-shop/static/media/cat2.cb9155160d37d36502be.png",
+    "static/media/labtop.png": "/Electronic-shop/static/media/labtop.72427ac57eccb337dd2b.png",
+    "static/media/pic.png": "/Electronic-shop/static/media/pic.c1f340e9b514ac94aa83.png",
+    "static/media/sale.png": "/Electronic-shop/static/media/sale.fd3bd0e8262078e4961a.png",
+    "static/media/clothing7.jpg": "/Electronic-shop/static/media/clothing7.436714803566475b16b8.jpg",
+    "static/media/electronic7.jpg": "/Electronic-shop/static/media/electronic7.435887bd5a4e22b68d2f.jpg",
+    "static/media/electronic6.jpg": "/Electronic-shop/static/media/electronic6.e2a1d7ba84bb4a4bcefc.jpg",
+    "static/media/personalcare 1.jpg": "/Electronic-shop/static/media/personalcare 1.c83180af0800e7533524.jpg",
+    "static/media/electronic3.jpg": "/Electronic-shop/static/media/electronic3.c5ead9ae75b7a996ebf9.jpg",
+    "static/media/personalcare 5.jpg": "/Electronic-shop/static/media/personalcare 5.40d090b8713de57a6efb.jpg",
+    "static/media/clothing3.jpg": "/Electronic-shop/static/media/clothing3.8afb7c17b748b9617ff8.jpg",
+    "static/media/personalcare 2.jpg": "/Electronic-shop/static/media/personalcare 2.50883fffa1f5931107e2.jpg",
+    "static/media/clothing4.jpg": "/Electronic-shop/static/media/clothing4.1ad086df08447430ae18.jpg",
+    "static/media/personalcare 4.jpg": "/Electronic-shop/static/media/personalcare 4.fda1f364c0486fabdea6.jpg",
+    "static/media/electronic2.jpg": "/Electronic-shop/static/media/electronic2.d2d54a676afd79a23fce.jpg",
+    "static/media/appliances3.jpg": "/Electronic-shop/static/media/appliances3.9f146403d62f10877717.jpg",
+    "static/media/clothing6.jpg": "/Electronic-shop/static/media/clothing6.3eef951fb82cbd15e252.jpg",
+    "static/media/clothing5.jpg": "/Electronic-shop/static/media/clothing5.ce1fafc8b716d9b1e8c7.jpg",
+    "static/media/personalcare 6.jpg": "/Electronic-shop/static/media/personalcare 6.04bc6a6393b4caf8ff60.jpg",
+    "static/media/electronic5.jpg": "/Electronic-shop/static/media/electronic5.861b231b7cf64821253b.jpg",
+    "static/media/brand3.png": "/Electronic-shop/static/media/brand3.1a0049b1f1a261d0e6d1.png",
+    "index.html": "/Electronic-shop/index.html",
+    "main.9e567a3c.css.map": "/Electronic-shop/static/css/main.9e567a3c.css.map",
+    "main.58d1069b.js.map": "/Electronic-shop/static/js/main.58d1069b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e567a3c.css",
+    "static/js/main.58d1069b.js"
+  ]
+}
