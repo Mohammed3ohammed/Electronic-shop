@@ -1,10 +1,9 @@
-import React from 'react'
+import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
 const LoginPage = () => {
   return (
-   
           <Container style={{ minHeight: "680px" }}>
       <Row className="py-5 d-flex justify-content-center ">
         <Col sm="12" className="d-flex flex-column ">
