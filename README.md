@@ -1,1 +1,3 @@
-This is an online store designed using React JavaScript and consists of several sections. Each section includes various products. The store offers a wide range of products, such as electronics, clothing, home appliances, and personal care products.
+Developed an e-commerce platform facilitating the purchase of
+clothing, electronic appliances, and household items.
+Technologies Used: React.js, React Bootstrap, HTML5, CSS
